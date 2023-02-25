@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+	<RecipeDef>
+		<workerCounterClass>SculptureRussian</workerCounterClass>
+		<defName>MakeSculptureRussian</defName>
+		<label>make sculpture russian</label>
+		<description>Make a torso-sized piece of material sculpted into an artistic form of a Russian girl.</description>
+		<jobString>Sculpting</jobString>
+		<workAmount>30000</workAmount>
+		<workSpeedStat>SculptingSpeed</workSpeedStat>
+		<workSkill>Artistic</workSkill>
+		<workSkillLearnFactor>1</workSkillLearnFactor>
+		<effectWorking>Sculpt</effectWorking>
+		<soundWorking>Recipe_Sculpture</soundWorking>
+		<targetCountAdjustment>50</targetCountAdjustment>
+        <requiredGiverWorkType>Art</requiredGiverWorkType>
+        <allowMixingIngredients>false</allowMixingIngredients>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Metallic</li>
+                        <li>StoneChunks</li>
+                        <li>Woody</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+	</RecipeDef>
+	<RecipeDef>
+		<workerCounterClass>SculptureSteve</workerCounterClass>
+		<defName>MakeSculptureSteve</defName>
+		<label>make sculpture of Steve</label>
+		<description>Make a torso-sized piece of material sculpted into an artistic form of Steve from Minecraft.</description>
+		<jobString>Sculpting</jobString>
+		<workAmount>30000</workAmount>
+		<workSpeedStat>SculptingSpeed</workSpeedStat>
+		<workSkill>Artistic</workSkill>
+		<workSkillLearnFactor>1</workSkillLearnFactor>
+		<effectWorking>Sculpt</effectWorking>
+		<soundWorking>Recipe_Sculpture</soundWorking>
+		<targetCountAdjustment>50</targetCountAdjustment>
+        <requiredGiverWorkType>Art</requiredGiverWorkType>
+        <allowMixingIngredients>false</allowMixingIngredients>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Metallic</li>
+                        <li>StoneChunks</li>
+                        <li>Woody</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+	</RecipeDef>
+
+	<RecipeDef>
+		<workerCounterClass>SculptureGracie</workerCounterClass>
+		<defName>MakeSculptureGracie</defName>
+		<label>make sculpture of Gracie</label>
+		<description>Make a torso-sized piece of material sculpted into an artistic form of Gracie from the Unification of Nabum.</description>
+		<jobString>Sculpting</jobString>
+		<workAmount>30000</workAmount>
+		<workSpeedStat>SculptingSpeed</workSpeedStat>
+		<workSkill>Artistic</workSkill>
+		<workSkillLearnFactor>1</workSkillLearnFactor>
+		<effectWorking>Sculpt</effectWorking>
+		<soundWorking>Recipe_Sculpture</soundWorking>
+		<targetCountAdjustment>50</targetCountAdjustment>
+        <requiredGiverWorkType>Art</requiredGiverWorkType>
+        <allowMixingIngredients>false</allowMixingIngredients>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Metallic</li>
+                        <li>StoneChunks</li>
+                        <li>Woody</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+	</RecipeDef>
+
+	<RecipeDef>
+		<workerCounterClass>SculptureMasterSword</workerCounterClass>
+		<defName>MakeSculptureMasterSword</defName>
+		<label>make sculpture of The Master Sword</label>
+		<description>Make a torso-sized piece of material sculpted into an artistic form of The Master Sword</description>
+		<jobString>Sculpting</jobString>
+		<workAmount>30000</workAmount>
+		<workSpeedStat>SculptingSpeed</workSpeedStat>
+		<workSkill>Artistic</workSkill>
+		<workSkillLearnFactor>1</workSkillLearnFactor>
+		<effectWorking>Sculpt</effectWorking>
+		<soundWorking>Recipe_Sculpture</soundWorking>
+		<targetCountAdjustment>50</targetCountAdjustment>
+        <requiredGiverWorkType>Art</requiredGiverWorkType>
+        <allowMixingIngredients>false</allowMixingIngredients>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Metallic</li>
+                        <li>StoneChunks</li>
+                        <li>Woody</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+	</RecipeDef>
+	
+</RecipeDefs>
